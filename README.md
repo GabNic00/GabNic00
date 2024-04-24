@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Gabriele</h1>
 <h3 align="center">Full Stack Developer🚀</h3>
 
-- <img src="https://media3.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/200w.webp" width="40">  I’m currently working on [Gestify]([https://github.com/Jim2510/Gestify](https://github.com/Jim2510/gestify_business_managment))
+- <img src="https://media3.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/200w.webp" width="40">  I’m currently working on [Gestify](https://github.com/Jim2510/gestify_business_managment)
 
 - <img src="https://media3.giphy.com/media/ZN4J5o5nvjzaxF2X64/200w.webp" width="40"> I’m currently learning <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="40">
 
